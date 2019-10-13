@@ -18,11 +18,11 @@ Thanks to all the attendees of #M365DevBootCamp 2019 in Mumbai (#M365DevBootcamp
 ## Event Photos
 * Photo Album | [Facebook](https://www.facebook.com/media/set/?set=oa.2197286847180756 "Facebook") 
 
-## About Global Office 365 Developer Bootcamp
+## About Global Microsoft 365 Developer Bootcamp
 
-![Global Office 365 Developer Bootcamp](https://raw.githubusercontent.com/mstechcomin/office365dev-bootcamp-2018-blr/master/images/BootCamp-Logo-Light.png "Global Office 365 Developer Bootcamp Logo")
+![Global Microsoft 365 Developer Bootcamp](https://raw.githubusercontent.com/mstechcomin/m365dev-bootcamp-2019-mumbai/master/images/m365devbootcamp-logo-light.png "Global Microsoft 365 Developer Bootcamp")
 
-The Global Office 365 Developer Bootcamp It is a free, one-day, hands-on training event led by Microsoft MVPs with support from Microsoft and local community leaders. Developers worldwide are invited to attend the bootcamp to learn the latest on Office 365 platform including Microsoft Graph, SharePoint Framework, Microsoft Teams, Office Add-ins, Connectors and Actionable Messages and apply what you learn to your future projects.
+The Global Microsoft 365 Developer Bootcamp is a free, one-day, hands-on training event led by Microsoft MVPs with support from Microsoft and local community leaders. Developers worldwide are invited to attend the bootcamp to learn the latest on Office 365 platform including Microsoft Graph, SharePoint Framework, Microsoft Teams, Office Add-ins, Connectors and Actionable Messages and apply what you learn to your future projects.
  
 * Announcement of 2018 Global Office 365 Developer Bootcamp [Blog](https://developer.microsoft.com/en-us/office/blogs/2018-global-office-365-developer-bootcamp/ "Office Dev Team Blog")
 
